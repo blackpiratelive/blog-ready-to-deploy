@@ -7,7 +7,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>BlackPirateX</copyright>
-    <lastBuildDate>Thu, 28 Apr 2022 00:08:39 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 14:35:54 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nextdns Review</title>
+      <link>https://blog.blackpiratex.com/posts/nextdns-review/</link>
+      <pubDate>Thu, 28 Apr 2022 14:35:54 +0530</pubDate>
+      
+      <guid>https://blog.blackpiratex.com/posts/nextdns-review/</guid>
+      <description>&lt;h2 id=&#34;what-is-dns&#34;&gt;What is DNS?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;what-is-nextdns&#34;&gt;What is NextDNS?&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NextDNS is a dns service which lets you block sites at dns level. That means it can block ads and trackers. Which is the main selling point of this service.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.blackpiratex.com/img/nextdns-logo.png&#34; alt=&#34;nextdns-logo&#34;&gt;
+In simpler words it&amp;rsquo;s phone book of the internet.&lt;/p&gt;
+&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;
+&lt;p&gt;I have been using NextDNS for almost few months now. Yes I&amp;rsquo;ve been using their free plan. Which is more than enough for me. My experience with NextDNS is very positive. Once I set it up and did all the testing it never disappointed me.&lt;/p&gt;
+&lt;h3 id=&#34;convenient&#34;&gt;Convenient&lt;/h3&gt;
+&lt;p&gt;NextDNS is pretty convinient way to block ads. In privacy section there&amp;rsquo;s option to add well known adblocker blocklist. And it&amp;rsquo;s as easy it gets. After setting up your configuration you can easily change your dns setings in your operating system.
+For more setup guide you can scroll down on their website and check their guides.&lt;/p&gt;
+&lt;h3 id=&#34;first-time-setup&#34;&gt;First Time Setup&lt;/h3&gt;
+&lt;p&gt;Setting up for the first time is easy, but it night be a bit hard for non techie people. At first I was also having trouble finding out how to whitelist certain site. Also if you select all the adblock filters you might have some issues on certain sites. For example in my case my youtube app wasn&amp;rsquo;t recording history. Then I had to disable few adblock list.&lt;/p&gt;
+&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;
+&lt;p&gt;As far as I know NextDNS is pretty secure. They had option for 2step verification.&lt;/p&gt;
+&lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
+&lt;p&gt;Default privacy settings are crappy on NextDNS. But the good thing is that they let you change the default settings. By default it logs everything. I recommend you to disable logs and clear logs right now if you haven&amp;rsquo;t done it already. Also NextDNS requires an email adress which you can easily fake using temp mail or alias.
+In NextDNS you can link IP. Which is not good for privacy so wouldn&amp;rsquo;t recommend using that feature.&lt;/p&gt;
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+&lt;p&gt;NextDNS is feature packed. It&amp;rsquo;s like having your own pi hole.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pi-hole or Pihole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In NextDNS you can add different types of blocklist to block ads and trackers. Sadly they won&amp;rsquo;t allow you to choose to add your own blacklist. But in Denylist you can choose to block certain domain but sadly it won&amp;rsquo;t be possible to block a lot of domains at once.
+&lt;img src=&#34;https://blog.blackpiratex.com/img/nextdns-2.png&#34; alt=&#34;features&#34;&gt;
+Their parental control feature is also awesome. It lets you block popular social media apps and websites in single click. Also there&amp;rsquo;s an option for recreation time which will allow those blocked sites for certain periods of time on certain days of the week.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Recreation time: Set a period for each day of the week during which some of the websites, apps, games or categories above will not be blocked — e.g. allow Facebook on Mondays and Tuesdays between 6pm and 8pm.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You can also turn on safesearch by default, block age restricted videos on youtube and block bypass methods like vpn. I&amp;rsquo;m not sure how effective they&amp;rsquo;re, but at least it&amp;rsquo;s nice to have the option.
+In analytics section you can see the analytics of that dns. Keep in mind that it only works if you have turned on logs.
+NextDNS works on different types of DNS protocol like DNS over HTTPS, DNS over TLS.&lt;/p&gt;
+&lt;h3 id=&#34;pricing&#34;&gt;Pricing&lt;/h3&gt;
+&lt;p&gt;NextDNS free version is enough for me, (it gives you 300k dns queries) and also be enough for most people. But they also have paid plans which is a bit expensive where I live. Overall I&amp;rsquo;ll say it&amp;rsquo;s good for most people.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Overall for anyone who&amp;rsquo;s looking for dns based adblocking solution NextDNS should be good enough for most of the people. Its convinient to set up (usually takes few mins), easy to manage and their free plan is actually useable. But for people who don&amp;rsquo;t want to trust a central company for all their internet traffic pi hole would be the way to go.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you have anything to comment about this post, you can mail me at &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;comments@blackpiratex.com&lt;/a&gt;, I&amp;rsquo;ll be waiting for your email.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
     <item>
       <title>In Search for Perfect Daily Journal App</title>
       <link>https://blog.blackpiratex.com/posts/in-search-for-perfect-daily-journal-app/</link>
@@ -135,51 +187,103 @@ You can also reference back your old journals if necessary easily. For example y
     </item>
     
     <item>
-      <title>Nextdns Review</title>
-      <link>https://blog.blackpiratex.com/posts/nextdns-review/</link>
-      <pubDate>Fri, 21 May 2021 14:35:54 +0530</pubDate>
+      <title>My Experience With Various Password Managers</title>
+      <link>https://blog.blackpiratex.com/posts/my-experience-with-various-password-managers/</link>
+      <pubDate>Tue, 09 Nov 2021 18:53:53 +0530</pubDate>
       
-      <guid>https://blog.blackpiratex.com/posts/nextdns-review/</guid>
-      <description>&lt;h2 id=&#34;what-is-dns&#34;&gt;What is DNS?&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;what-is-nextdns&#34;&gt;What is NextDNS?&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;NextDNS is a dns service which lets you block sites at dns level. That means it can block ads and trackers. Which is the main selling point of this service.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://blog.blackpiratex.com/img/nextdns-logo.png&#34; alt=&#34;nextdns-logo&#34;&gt;
-In simpler words it&amp;rsquo;s phone book of the internet.&lt;/p&gt;
-&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;
-&lt;p&gt;I have been using NextDNS for almost few months now. Yes I&amp;rsquo;ve been using their free plan. Which is more than enough for me. My experience with NextDNS is very positive. Once I set it up and did all the testing it never disappointed me.&lt;/p&gt;
-&lt;h3 id=&#34;convenient&#34;&gt;Convenient&lt;/h3&gt;
-&lt;p&gt;NextDNS is pretty convinient way to block ads. In privacy section there&amp;rsquo;s option to add well known adblocker blocklist. And it&amp;rsquo;s as easy it gets. After setting up your configuration you can easily change your dns setings in your operating system.
-For more setup guide you can scroll down on their website and check their guides.&lt;/p&gt;
-&lt;h3 id=&#34;first-time-setup&#34;&gt;First Time Setup&lt;/h3&gt;
-&lt;p&gt;Setting up for the first time is easy, but it night be a bit hard for non techie people. At first I was also having trouble finding out how to whitelist certain site. Also if you select all the adblock filters you might have some issues on certain sites. For example in my case my youtube app wasn&amp;rsquo;t recording history. Then I had to disable few adblock list.&lt;/p&gt;
-&lt;h3 id=&#34;security&#34;&gt;Security&lt;/h3&gt;
-&lt;p&gt;As far as I know NextDNS is pretty secure. They had option for 2step verification.&lt;/p&gt;
-&lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
-&lt;p&gt;Default privacy settings are crappy on NextDNS. But the good thing is that they let you change the default settings. By default it logs everything. I recommend you to disable logs and clear logs right now if you haven&amp;rsquo;t done it already. Also NextDNS requires an email adress which you can easily fake using temp mail or alias.
-In NextDNS you can link IP. Which is not good for privacy so wouldn&amp;rsquo;t recommend using that feature.&lt;/p&gt;
-&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
-&lt;p&gt;NextDNS is feature packed. It&amp;rsquo;s like having your own pi hole.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Pi-hole or Pihole is a Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole and optionally a DHCP server, intended for use on a private network.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;In NextDNS you can add different types of blocklist to block ads and trackers. Sadly they won&amp;rsquo;t allow you to choose to add your own blacklist. But in Denylist you can choose to block certain domain but sadly it won&amp;rsquo;t be possible to block a lot of domains at once.
-&lt;img src=&#34;https://blog.blackpiratex.com/img/nextdns-2.png&#34; alt=&#34;features&#34;&gt;
-Their parental control feature is also awesome. It lets you block popular social media apps and websites in single click. Also there&amp;rsquo;s an option for recreation time which will allow those blocked sites for certain periods of time on certain days of the week.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Recreation time: Set a period for each day of the week during which some of the websites, apps, games or categories above will not be blocked — e.g. allow Facebook on Mondays and Tuesdays between 6pm and 8pm.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;You can also turn on safesearch by default, block age restricted videos on youtube and block bypass methods like vpn. I&amp;rsquo;m not sure how effective they&amp;rsquo;re, but at least it&amp;rsquo;s nice to have the option.
-In analytics section you can see the analytics of that dns. Keep in mind that it only works if you have turned on logs.
-NextDNS works on different types of DNS protocol like DNS over HTTPS, DNS over TLS.&lt;/p&gt;
-&lt;h3 id=&#34;pricing&#34;&gt;Pricing&lt;/h3&gt;
-&lt;p&gt;NextDNS free version is enough for me, (it gives you 300k dns queries) and also be enough for most people. But they also have paid plans which is a bit expensive where I live. Overall I&amp;rsquo;ll say it&amp;rsquo;s good for most people.&lt;/p&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Overall for anyone who&amp;rsquo;s looking for dns based adblocking solution NextDNS should be good enough for most of the people. Its convinient to set up (usually takes few mins), easy to manage and their free plan is actually useable. But for people who don&amp;rsquo;t want to trust a central company for all their internet traffic pi hole would be the way to go.&lt;/p&gt;
+      <guid>https://blog.blackpiratex.com/posts/my-experience-with-various-password-managers/</guid>
+      <description>&lt;p&gt;Throughout the years i have used many password managers. One of the biggest reasons I started using a password manager is not because of the security but rather I wanted a quick way to type my passwords. Also its easy for me to loose track of the websites I have signed up for. Now you may ask why I didn&amp;rsquo;t use something like password manager built in most modern web browser? Well the answer to that question is I wanted all my passwords to sync to different browsers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h3&gt;
+&lt;p&gt;Before starting I want to clear some things first. This review is based on my overall experience. I have only android devices and windows and linux. Your mileage may vary if you are on different devices.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;lastpass-websitehttpslastpasscom&#34;&gt;&lt;strong&gt;LastPass&lt;/strong&gt;: &lt;a href=&#34;https://lastpass.com/&#34;&gt;Website&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Pros -&amp;gt; There is seriously none. Only reason to use it would be you&amp;rsquo;re into their ecosystem and can&amp;rsquo;t get out, or you have to use it for work.&lt;/li&gt;
+&lt;li&gt;Cons:
+&lt;ol&gt;
+&lt;li&gt;Android app is terrible. The UI looks outdated. Android app is filled with trackers.&lt;/li&gt;
+&lt;li&gt;Has very serious security flaws throughout the years. &lt;a href=&#34;https://en.wikipedia.org/wiki/LastPass#Security_issues&#34;&gt;More Info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Free version is unusable.&lt;/li&gt;
+&lt;li&gt;You cannot export your 2fa seeds if you ever plan to move to a new password manager. (Its necessary feature to have if you are planning to future proof your passwords or 2fa seeds.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bitwarden-websitehttpsbitwardencom&#34;&gt;Bitwarden: &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Website&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:&lt;/strong&gt; There is lot to love in Bitwarden.
+&lt;ol&gt;
+&lt;li&gt;Security is flawless. Their apps are open source, You can self host your own instance if you want to.&lt;/li&gt;
+&lt;li&gt;Privacy is also top notch. Android apps don&amp;rsquo;t contain any kind of trackers.&lt;/li&gt;
+&lt;li&gt;Has wide range of supported devices.&lt;/li&gt;
+&lt;li&gt;Probably the best free version of all the password managers. You would have to pay only if you need document support or want to generate TOTP.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Cons: These might sound like nitpicking.
+&lt;ol&gt;
+&lt;li&gt;&lt;del&gt;I can&amp;rsquo;t like the android app ui. It doesn&amp;rsquo;t feel modern. It isn&amp;rsquo;t laggy but feels sluggish.&lt;/del&gt;  Update 29/04/2022: I am not bothered by it now, but yes sometimes Bitwarden lags while trying to autofill.&lt;/li&gt;
+&lt;li&gt;Their premium version is only 10$ per year, yes its hella cheap, but not in devloping countries. I wish they did regional pricing (I would definitely pay for it.)&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;d love to have an option where I can upload the encrypted data to a cloud drive. Its like self hosting only the data. (1password and enpass can do this.)&lt;/li&gt;
+&lt;li&gt;Lack of document support in free version.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;1password-websitehttps1passwordcom&#34;&gt;1password: &lt;a href=&#34;https://1password.com/&#34;&gt;Website&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:&lt;/strong&gt;&lt;br&gt;
+1.  If you&amp;rsquo;re willing to pay for a password manager this can be a great choice.
+2. Absolutely a lot of features that you might find useful. For example password history, ability to add any custom field and section to store different types of information.
+3. You can choose to store all the encrypted data to your own choice of cloud storage, like dropbox or google drive.
+4. There&amp;rsquo;s no trackers in android apps and windows apps.
+5. Ability to have multiple vaults,  but Enpass&amp;rsquo;s implementation is better.
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You cannot upload documents if you choose to store passwords by yourself (kinda like self hosting but not really) I mean one of the main reason to self host is that you can get document storage as much as you need. Even dropbox free gives 2GB (which can be increased to 18GB) which is much better than 1GB storage that you get in your subscription.&lt;/li&gt;
+&lt;li&gt;It is not open source at all. But they didn&amp;rsquo;t have any data breach or anything that I can find out.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;enpass-websitehttpswwwenpassio&#34;&gt;&lt;strong&gt;Enpass:&lt;/strong&gt; &lt;a href=&#34;https://www.enpass.io/&#34;&gt;Website&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:&lt;/strong&gt;
+1. Extremely feature rich. It has everything you can ask for in a password manager.
+2. It works without any account or without internet connection at all. Although you&amp;rsquo;ll need internet connection to sync across devices which is optional.
+3. Ability to have multiple vaults, (1Password has this feature too but in my opinion enpass&amp;rsquo;s implementation is better.)
+4. There&amp;rsquo;s no limit of how many data (passwords, documents, notes) you can store.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cons:&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;All apps are closed source.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dashlane-websitehttpswwwdashlanecom&#34;&gt;Dashlane: &lt;a href=&#34;https://www.dashlane.com/&#34;&gt;Website&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pros:-&lt;/strong&gt;
+1. The user interface is very simple.
+2. Beginner-normie Friendly
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cons:-&lt;/strong&gt;
+&lt;ol&gt;
+&lt;li&gt;Nothing is open source. Privacy is meh.&lt;/li&gt;
+&lt;li&gt;Features are very limited. Last time I checked they didn&amp;rsquo;t even had option for custom fields.&lt;/li&gt;
+&lt;li&gt;No Desktop Application, You&amp;rsquo;ll have to use their web app or extension.&lt;/li&gt;
+&lt;li&gt;Free version doesn&amp;rsquo;t sync.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;keepass-websitehttpskeepassinfo&#34;&gt;&lt;strong&gt;Keepass:&lt;/strong&gt; &lt;a href=&#34;https://keepass.info/&#34;&gt;Website&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I have used keepass only briefly, I have multiple devices, so I need to access my keepass file everywhere, which is not an easy task to do with keepass.
+I know that it is achieveable, but it sure is not as straightforward as something like bitwarden or enpass. I tried using &lt;a href=&#34;https://www.keepassdx.com/&#34;&gt;KeePassDX&lt;/a&gt; with dropbox sync, and it gets conflict so often. So it gets pretty unuseable. I may start using it again once I figure out how to get sync working properly.&lt;/p&gt;
+&lt;p&gt;Of all the password managers I have used my favourite would be Bitwarden, Enpass is a close second. If closed source stuff does not bother you and you want extra fatures, you can use Enpass or 1Password. I personally would prefer enpass more than 1Password. Currently as of April 2022 I aPeriod.m using Bitwarden. Earlier I was using enpass, only reason I moved away from enpass is beacuse of it&amp;rsquo;s closed source nature. For something as important as password manager, it should be open source.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If you have anything to comment about this post, you can mail me at &lt;a href=&#34;mailto:comments@blackpiratex.com&#34;&gt;comments@blackpiratex.com&lt;/a&gt;, I&amp;rsquo;ll be waiting for your email.&lt;/p&gt;
 &lt;/blockquote&gt;
