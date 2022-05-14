@@ -1,1 +1,0 @@
-# blog-ready-to-deploy
