@@ -4,7 +4,15 @@
         <link>https://blog.blackpiratex.com/posts/</link>
         <description>All Posts | Blog By BlackPirateX</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@sudipx.in (BlackPirateX)</managingEditor>
-            <webMaster>hi@sudipx.in (BlackPirateX)</webMaster><lastBuildDate>Fri, 13 May 2022 16:06:49 &#43;0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hi@sudipx.in (BlackPirateX)</webMaster><lastBuildDate>Tue, 17 May 2022 10:27:24 &#43;0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Using Degoogled Phone Isn&#39;t as Hard as You Might Think</title>
+    <link>https://blog.blackpiratex.com/posts/using-degoogled-phone-isnt-as-hard-as-you-might-think/</link>
+    <pubDate>Tue, 17 May 2022 10:27:24 &#43;0530</pubDate>
+    <author>BlackPirateX</author>
+    <guid>https://blog.blackpiratex.com/posts/using-degoogled-phone-isnt-as-hard-as-you-might-think/</guid>
+    <description><![CDATA[What is a degoogled phone? Vanilla Android is FOSS (Free and OpenSource Software), but the android that you get preinstalled in most phones isn&rsquo;t completely FOSS. It has a blackbox, which is called Google Play Services. A lot of android apps and all google apps relies on this. Sure it provides features like instant notification, but privacy is a nightmare. Degoogling a phone means removing this blackbox, by installing a different flavour of Android which doesn&rsquo;t ship with Google Play Services by default.]]></description>
+</item>
+<item>
     <title>Sexual Reproduction in Flowering Plants</title>
     <link>https://blog.blackpiratex.com/posts/sexual-reproduction-in-flowering-plants/</link>
     <pubDate>Fri, 13 May 2022 16:06:49 &#43;0530</pubDate>
