@@ -4,7 +4,15 @@
         <link>https://blog.blackpiratex.com/posts/</link>
         <description>All Posts | Blog By BlackPirateX</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@sudipx.in (BlackPirateX)</managingEditor>
-            <webMaster>hi@sudipx.in (BlackPirateX)</webMaster><lastBuildDate>Tue, 17 May 2022 10:27:24 &#43;0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hi@sudipx.in (BlackPirateX)</webMaster><lastBuildDate>Sat, 28 May 2022 19:31:47 &#43;0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Simplelogin - Best Way to Manage Your Emails</title>
+    <link>https://blog.blackpiratex.com/posts/simplelogin-best-way-to-manage-your-emails/</link>
+    <pubDate>Sat, 28 May 2022 19:31:47 &#43;0530</pubDate>
+    <author>BlackPirateX</author>
+    <guid>https://blog.blackpiratex.com/posts/simplelogin-best-way-to-manage-your-emails/</guid>
+    <description><![CDATA[SimpleLogin is a email aliasing service. Which basically means you can create as many emails as you want* and all those emails would land on single inbox. I&rsquo;ve been using SimpleLogin for over a year now. Here&rsquo;s my evaluation of the service. My Use Case As someone who cares about privacy, and had personal emails leaked in data breach previously, I treat emails just like my passwords. I don&rsquo;t want fifty different companies to know my email address just so they can send me marketing emails.]]></description>
+</item>
+<item>
     <title>Using Degoogled Phone Isn&#39;t as Hard as You Might Think</title>
     <link>https://blog.blackpiratex.com/posts/using-degoogled-phone-isnt-as-hard-as-you-might-think/</link>
     <pubDate>Tue, 17 May 2022 10:27:24 &#43;0530</pubDate>
