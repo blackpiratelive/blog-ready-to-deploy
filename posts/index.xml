@@ -4,7 +4,15 @@
         <link>https://blog.blackpiratex.com/posts/</link>
         <description>All Posts | Blog By BlackPirateX</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@sudipx.in (BlackPirateX)</managingEditor>
-            <webMaster>hi@sudipx.in (BlackPirateX)</webMaster><lastBuildDate>Sat, 28 May 2022 19:31:47 &#43;0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>hi@sudipx.in (BlackPirateX)</webMaster><lastBuildDate>Mon, 27 Jun 2022 14:54:23 &#43;0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Fedora Doesn&#39;t Like Me</title>
+    <link>https://blog.blackpiratex.com/posts/fedora-doesnt-like-me/</link>
+    <pubDate>Mon, 27 Jun 2022 14:54:23 &#43;0530</pubDate>
+    <author>BlackPirateX</author>
+    <guid>https://blog.blackpiratex.com/posts/fedora-doesnt-like-me/</guid>
+    <description><![CDATA[After listening lots of good things about fedora, I wanted to give it a try. I was previously using Archcraft, but recently it started to give me few errors. Dolphin won&rsquo;t start for some reason. Same problem with OBS Studio also. I can live without dolphin, but needed obs studio. I got an workaround and used ffmpeg to record screen, but it wasn&rsquo;t as good as obs studio. So I decided to distro-hop like any rational person would (I hope).]]></description>
+</item>
+<item>
     <title>Simplelogin - Best Way to Manage Your Emails</title>
     <link>https://blog.blackpiratex.com/posts/simplelogin-best-way-to-manage-your-emails/</link>
     <pubDate>Sat, 28 May 2022 19:31:47 &#43;0530</pubDate>
@@ -26,7 +34,7 @@
     <pubDate>Fri, 13 May 2022 16:06:49 &#43;0530</pubDate>
     <author>BlackPirateX</author>
     <guid>https://blog.blackpiratex.com/posts/sexual-reproduction-in-flowering-plants/</guid>
-    <description><![CDATA[Pre-Fertilisation Events and Structures   Several hormonal and structural changes happen which lead to the differentiation and further devlopment of floral primordium before flower in seen on a plant. Inflorecences are formed which bears the floral bud and then the flowers.   Structures of a flower Androecium   It is the male reproductive organ of the flower. Androecium consists of stamens. The number and length of stamens are variable in different species.]]></description>
+    <description><![CDATA[Pre-Fertilisation Events and Structures Several hormonal and structural changes happen which lead to the differentiation and further devlopment of floral primordium before flower in seen on a plant. Inflorecences are formed which bears the floral bud and then the flowers. Structures of a flower Androecium It is the male reproductive organ of the flower. Androecium consists of stamens. The number and length of stamens are variable in different species. Stamen has two parts.]]></description>
 </item>
 <item>
     <title>Human Reproduction</title>
@@ -34,7 +42,7 @@
     <pubDate>Mon, 02 May 2022 20:23:17 &#43;0530</pubDate>
     <author>BlackPirateX</author>
     <guid>https://blog.blackpiratex.com/posts/human-reproduction/</guid>
-    <description><![CDATA[Male Reproductive Organ  Male reproductive organs consists of testes, accesssory glands, glands and external genetitalia. Male reproductive system is located in pelvic region. There&rsquo;s one pair of testes which is situated outside the human body within a pouch called scrotum. Scrotum has lower temparature than the body (2-2.5 degree celcius less) This lower temparature is necessuary for spermatogenesis. testis is oval in shape 4-5cm in length and 2-3 cm in width.]]></description>
+    <description><![CDATA[Male Reproductive Organ Male reproductive organs consists of testes, accesssory glands, glands and external genetitalia. Male reproductive system is located in pelvic region. There&rsquo;s one pair of testes which is situated outside the human body within a pouch called scrotum. Scrotum has lower temparature than the body (2-2.5 degree celcius less) This lower temparature is necessuary for spermatogenesis. testis is oval in shape 4-5cm in length and 2-3 cm in width.]]></description>
 </item>
 <item>
     <title>In Search for Perfect Daily Journal App</title>
@@ -43,7 +51,7 @@
     <author>BlackPirateX</author>
     <guid>https://blog.blackpiratex.com/posts/in-search-for-perfect-daily-journal-app/</guid>
     <description><![CDATA[To be considered a viable app for my Daily Journal needs it must have following charateristics.
- Decent UI Either end to end encrypted if the app is cloud based or data stays locally. Cross platform. Including Linux. Easy way to export for personal backups. Free  Because of lack of privacy at my home, I had moved away from physical pen and paper diaries and moved completely to digital. It&rsquo;s much easier to hide something online than trying to hide at my home.]]></description>
+Decent UI Either end to end encrypted if the app is cloud based or data stays locally. Cross platform. Including Linux. Easy way to export for personal backups. Free Because of lack of privacy at my home, I had moved away from physical pen and paper diaries and moved completely to digital. It&rsquo;s much easier to hide something online than trying to hide at my home.]]></description>
 </item>
 <item>
     <title>Digital Journaling Is Better Than Physical Journaling</title>
@@ -51,7 +59,7 @@
     <pubDate>Sat, 23 Apr 2022 20:18:34 &#43;0530</pubDate>
     <author>BlackPirateX</author>
     <guid>https://blog.blackpiratex.com/posts/digital-journaling-is-better-than-physical-journaling/</guid>
-    <description><![CDATA[Privacy is better on digital Journalism Easy to backup More customisable Less bulky Easier to write Automation Search and Reference  Better Privacy A daily journal is probably going to be one of the most private thing in your life. Because I know for a fact that, doesn&rsquo;t matter how close you are to me I&rsquo;m never going to share my journal with anyone but me. If you are able to write digitally right way then it is very much possible to have greater privacy than that you&rsquo;d get in physical journal.]]></description>
+    <description><![CDATA[Privacy is better on digital Journalism Easy to backup More customisable Less bulky Easier to write Automation Search and Reference Better Privacy A daily journal is probably going to be one of the most private thing in your life. Because I know for a fact that, doesn&rsquo;t matter how close you are to me I&rsquo;m never going to share my journal with anyone but me. If you are able to write digitally right way then it is very much possible to have greater privacy than that you&rsquo;d get in physical journal.]]></description>
 </item>
 <item>
     <title>Why I Love Wm</title>
@@ -77,8 +85,8 @@ If you are someone who is used to use normal desktop environment like gnome, kde
     <pubDate>Fri, 21 May 2021 14:35:54 &#43;0530</pubDate>
     <author>BlackPirateX</author>
     <guid>https://blog.blackpiratex.com/posts/nextdns-review/</guid>
-    <description><![CDATA[What is DNS?  The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.
- What is NextDNS?  NextDNS is a dns service which lets you block sites at dns level. That means it can block ads and trackers. Which is the main selling point of this service.]]></description>
+    <description><![CDATA[What is DNS? The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.
+What is NextDNS? NextDNS is a dns service which lets you block sites at dns level. That means it can block ads and trackers. Which is the main selling point of this service.]]></description>
 </item>
 </channel>
 </rss>

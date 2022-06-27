@@ -2,21 +2,23 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://blog.blackpiratex.com/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.blackpiratex.com/posts/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.blackpiratex.com/tags/privacy/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.blackpiratex.com/tags/review/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.blackpiratex.com/posts/simplelogin-best-way-to-manage-your-emails/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.blackpiratex.com/tags/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
-            <loc>https://blog.blackpiratex.com/tags/software/</loc><lastmod>2022-05-17T10:27:24&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url><url>
-            <loc>https://blog.blackpiratex.com/posts/using-degoogled-phone-isnt-as-hard-as-you-might-think/</loc><lastmod>2022-05-17T10:27:24&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url><url>
-            <loc>https://blog.blackpiratex.com/tags/biology/</loc><lastmod>2022-05-13T16:06:49&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url><url>
-            <loc>https://blog.blackpiratex.com/posts/sexual-reproduction-in-flowering-plants/</loc><lastmod>2022-05-13T16:06:49&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url><url>
-            <loc>https://blog.blackpiratex.com/posts/human-reproduction/</loc><lastmod>2022-05-02T20:23:17&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url><url>
-            <loc>https://blog.blackpiratex.com/posts/in-search-for-perfect-daily-journal-app/</loc><lastmod>2022-04-28T00:08:39&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url><url>
-            <loc>https://blog.blackpiratex.com/tags/journaling/</loc><lastmod>2022-04-28T00:08:39&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url><url>
+            <loc>https://blog.blackpiratex.com/</loc><lastmod>2022-06-27T14:54:23&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.blackpiratex.com/posts/fedora-doesnt-like-me/</loc><lastmod>2022-06-27T14:54:23&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/linux/</loc><lastmod>2022-06-27T14:54:23&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.blackpiratex.com/posts/</loc><lastmod>2022-06-27T14:54:23&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/rant/</loc><lastmod>2022-06-27T14:54:23&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/software/</loc><lastmod>2022-06-27T14:54:23&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/</loc><lastmod>2022-06-27T14:54:23&#43;05:30</lastmod><changefreq>daily</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/privacy/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/review/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url><url>
+            <loc>https://blog.blackpiratex.com/posts/simplelogin-best-way-to-manage-your-emails/</loc><lastmod>2022-05-28T19:31:47&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url><url>
+            <loc>https://blog.blackpiratex.com/posts/using-degoogled-phone-isnt-as-hard-as-you-might-think/</loc><lastmod>2022-05-17T10:27:24&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/biology/</loc><lastmod>2022-05-13T16:06:49&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.blackpiratex.com/posts/sexual-reproduction-in-flowering-plants/</loc><lastmod>2022-05-13T16:06:49&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.blackpiratex.com/posts/human-reproduction/</loc><lastmod>2022-05-02T20:23:17&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.blackpiratex.com/posts/in-search-for-perfect-daily-journal-app/</loc><lastmod>2022-04-28T00:08:39&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
+            <loc>https://blog.blackpiratex.com/tags/journaling/</loc><lastmod>2022-04-28T00:08:39&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.blackpiratex.com/posts/digital-journaling-is-better-than-physical-journaling/</loc><lastmod>2022-04-23T20:18:34&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
-            <loc>https://blog.blackpiratex.com/tags/linux/</loc><lastmod>2022-03-30T20:13:52&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.blackpiratex.com/posts/why-i-love-wm/</loc><lastmod>2022-03-30T20:13:52&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.blackpiratex.com/posts/my-experience-with-various-password-managers/</loc><lastmod>2021-11-09T18:53:53&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
             <loc>https://blog.blackpiratex.com/tags/internet/</loc><lastmod>2021-05-21T14:35:54&#43;05:30</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url>
