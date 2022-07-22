@@ -7,7 +7,7 @@ body {
     font-size: 1.2rem;
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 .main-heading {
     text-align: center;
@@ -25,6 +25,10 @@ h1 {
 h4 {
     text-align: center;
     color: grey;
+}
+.description {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
 }
 h1,
 h2,
