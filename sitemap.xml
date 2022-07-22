@@ -2,66 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog.blackpiratex.com/</loc>
+    <lastmod>2022-07-22T17:46:44+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.blackpiratex.com/tags/meta/</loc>
+    <lastmod>2022-07-22T17:46:44+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.blackpiratex.com/tags/</loc>
+    <lastmod>2022-07-22T17:46:44+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.blackpiratex.com/website-update-1/</loc>
+    <lastmod>2022-07-22T17:46:44+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.blackpiratex.com/fedora-doesnt-like-me/</loc>
     <lastmod>2022-06-27T14:54:23+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/fedora-doesnt-like-me/</loc>
+    <loc>https://blog.blackpiratex.com/tags/linux/</loc>
     <lastmod>2022-06-27T14:54:23+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/linux/</loc>
+    <loc>https://blog.blackpiratex.com/tags/rant/</loc>
     <lastmod>2022-06-27T14:54:23+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/rant/</loc>
+    <loc>https://blog.blackpiratex.com/tags/software/</loc>
     <lastmod>2022-06-27T14:54:23+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/software/</loc>
-    <lastmod>2022-06-27T14:54:23+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2022-06-27T14:54:23+05:30</lastmod>
-  </url><url>
-    <loc>http://example.org/tags/privacy/</loc>
+    <loc>https://blog.blackpiratex.com/tags/privacy/</loc>
     <lastmod>2022-05-28T19:31:47+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/review/</loc>
+    <loc>https://blog.blackpiratex.com/tags/review/</loc>
     <lastmod>2022-05-28T19:31:47+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/simplelogin-best-way-to-manage-your-emails/</loc>
+    <loc>https://blog.blackpiratex.com/simplelogin-best-way-to-manage-your-emails/</loc>
     <lastmod>2022-05-28T19:31:47+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/using-degoogled-phone-isnt-as-hard-as-you-might-think/</loc>
+    <loc>https://blog.blackpiratex.com/using-degoogled-phone-isnt-as-hard-as-you-might-think/</loc>
     <lastmod>2022-05-17T10:27:24+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/biology/</loc>
+    <loc>https://blog.blackpiratex.com/tags/biology/</loc>
     <lastmod>2022-05-13T16:06:49+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/sexual-reproduction-in-flowering-plants/</loc>
+    <loc>https://blog.blackpiratex.com/sexual-reproduction-in-flowering-plants/</loc>
     <lastmod>2022-05-13T16:06:49+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/human-reproduction/</loc>
+    <loc>https://blog.blackpiratex.com/human-reproduction/</loc>
     <lastmod>2022-05-02T20:23:17+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/in-search-for-perfect-daily-journal-app/</loc>
+    <loc>https://blog.blackpiratex.com/in-search-for-perfect-daily-journal-app/</loc>
     <lastmod>2022-04-28T00:08:39+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/journaling/</loc>
+    <loc>https://blog.blackpiratex.com/tags/journaling/</loc>
     <lastmod>2022-04-28T00:08:39+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/digital-journaling-is-better-than-physical-journaling/</loc>
+    <loc>https://blog.blackpiratex.com/digital-journaling-is-better-than-physical-journaling/</loc>
     <lastmod>2022-04-23T20:18:34+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/why-i-love-wm/</loc>
+    <loc>https://blog.blackpiratex.com/why-i-love-wm/</loc>
     <lastmod>2022-03-30T20:13:52+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/my-experience-with-various-password-managers/</loc>
+    <loc>https://blog.blackpiratex.com/my-experience-with-various-password-managers/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/internet/</loc>
+    <loc>https://blog.blackpiratex.com/tags/internet/</loc>
     <lastmod>2021-05-21T14:35:54+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/nextdns-review/</loc>
+    <loc>https://blog.blackpiratex.com/nextdns-review/</loc>
     <lastmod>2021-05-21T14:35:54+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog.blackpiratex.com/categories/</loc>
   </url>
 </urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meta on Blog By BlackPirateX</title>
+    <link>https://blog.blackpiratex.com/tags/meta/</link>
+    <description>Recent content in meta on Blog By BlackPirateX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 17:46:44 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Update #1</title>
+      <link>https://blog.blackpiratex.com/website-update-1/</link>
+      <pubDate>Fri, 22 Jul 2022 17:46:44 +0530</pubDate>
+      
+      <guid>https://blog.blackpiratex.com/website-update-1/</guid>
+      <description>If you have visited my this blog before,(and can remember it) you can clearly see the difference. This blog is now simpler. I like it. Hope you like it too. As I am going to get busy with my life, I hope I would stick with this theme for very long.
+How this website is made I use Hugo for creating this website. Hugo is great. I am loving it. Earlier also I was using Hugo, but that time I didn&amp;rsquo;t know much about it, so I used a ready made theme for my website.</description>
+    </item>
+    
+  </channel>
+</rss>

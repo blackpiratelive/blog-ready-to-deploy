@@ -2,80 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog By BlackPirateX</title>
-    <link>http://example.org/tags/</link>
+    <link>https://blog.blackpiratex.com/tags/</link>
     <description>Recent content in Tags on Blog By BlackPirateX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 14:54:23 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 17:46:44 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meta</title>
+      <link>https://blog.blackpiratex.com/tags/meta/</link>
+      <pubDate>Fri, 22 Jul 2022 17:46:44 +0530</pubDate>
+      
+      <guid>https://blog.blackpiratex.com/tags/meta/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>linux</title>
-      <link>http://example.org/tags/linux/</link>
+      <link>https://blog.blackpiratex.com/tags/linux/</link>
       <pubDate>Mon, 27 Jun 2022 14:54:23 +0530</pubDate>
       
-      <guid>http://example.org/tags/linux/</guid>
+      <guid>https://blog.blackpiratex.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rant</title>
-      <link>http://example.org/tags/rant/</link>
+      <link>https://blog.blackpiratex.com/tags/rant/</link>
       <pubDate>Mon, 27 Jun 2022 14:54:23 +0530</pubDate>
       
-      <guid>http://example.org/tags/rant/</guid>
+      <guid>https://blog.blackpiratex.com/tags/rant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software</title>
-      <link>http://example.org/tags/software/</link>
+      <link>https://blog.blackpiratex.com/tags/software/</link>
       <pubDate>Mon, 27 Jun 2022 14:54:23 +0530</pubDate>
       
-      <guid>http://example.org/tags/software/</guid>
+      <guid>https://blog.blackpiratex.com/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://example.org/tags/privacy/</link>
+      <link>https://blog.blackpiratex.com/tags/privacy/</link>
       <pubDate>Sat, 28 May 2022 19:31:47 +0530</pubDate>
       
-      <guid>http://example.org/tags/privacy/</guid>
+      <guid>https://blog.blackpiratex.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>review</title>
-      <link>http://example.org/tags/review/</link>
+      <link>https://blog.blackpiratex.com/tags/review/</link>
       <pubDate>Sat, 28 May 2022 19:31:47 +0530</pubDate>
       
-      <guid>http://example.org/tags/review/</guid>
+      <guid>https://blog.blackpiratex.com/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biology</title>
-      <link>http://example.org/tags/biology/</link>
+      <link>https://blog.blackpiratex.com/tags/biology/</link>
       <pubDate>Fri, 13 May 2022 16:06:49 +0530</pubDate>
       
-      <guid>http://example.org/tags/biology/</guid>
+      <guid>https://blog.blackpiratex.com/tags/biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>journaling</title>
-      <link>http://example.org/tags/journaling/</link>
+      <link>https://blog.blackpiratex.com/tags/journaling/</link>
       <pubDate>Thu, 28 Apr 2022 00:08:39 +0530</pubDate>
       
-      <guid>http://example.org/tags/journaling/</guid>
+      <guid>https://blog.blackpiratex.com/tags/journaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internet</title>
-      <link>http://example.org/tags/internet/</link>
+      <link>https://blog.blackpiratex.com/tags/internet/</link>
       <pubDate>Fri, 21 May 2021 14:35:54 +0530</pubDate>
       
-      <guid>http://example.org/tags/internet/</guid>
+      <guid>https://blog.blackpiratex.com/tags/internet/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software on Blog By BlackPirateX</title>
-    <link>http://example.org/tags/software/</link>
+    <link>https://blog.blackpiratex.com/tags/software/</link>
     <description>Recent content in software on Blog By BlackPirateX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 14:54:23 +0530</lastBuildDate><atom:link href="http://example.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 14:54:23 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fedora Doesn&#39;t Like Me</title>
-      <link>http://example.org/fedora-doesnt-like-me/</link>
+      <link>https://blog.blackpiratex.com/fedora-doesnt-like-me/</link>
       <pubDate>Mon, 27 Jun 2022 14:54:23 +0530</pubDate>
       
-      <guid>http://example.org/fedora-doesnt-like-me/</guid>
+      <guid>https://blog.blackpiratex.com/fedora-doesnt-like-me/</guid>
       <description>After listening lots of good things about fedora, I wanted to give it a try. I was previously using Archcraft, but recently it started to give me few errors. Dolphin won&amp;rsquo;t start for some reason. Same problem with OBS Studio also. I can live without dolphin, but needed obs studio. I got an workaround and used ffmpeg to record screen, but it wasn&amp;rsquo;t as good as obs studio. So I decided to distro-hop like any rational person would (I hope).</description>
     </item>
     
     <item>
       <title>Using Degoogled Phone Isn&#39;t as Hard as You Might Think</title>
-      <link>http://example.org/using-degoogled-phone-isnt-as-hard-as-you-might-think/</link>
+      <link>https://blog.blackpiratex.com/using-degoogled-phone-isnt-as-hard-as-you-might-think/</link>
       <pubDate>Tue, 17 May 2022 10:27:24 +0530</pubDate>
       
-      <guid>http://example.org/using-degoogled-phone-isnt-as-hard-as-you-might-think/</guid>
+      <guid>https://blog.blackpiratex.com/using-degoogled-phone-isnt-as-hard-as-you-might-think/</guid>
       <description>What is a degoogled phone? Vanilla Android is FOSS (Free and OpenSource Software), but the android that you get preinstalled in most phones isn&amp;rsquo;t completely FOSS. It has a blackbox, which is called Google Play Services. A lot of android apps and all google apps relies on this. Sure it provides features like instant notification, but privacy is a nightmare. Degoogling a phone means removing this blackbox, by installing a different flavour of Android which doesn&amp;rsquo;t ship with Google Play Services by default.</description>
     </item>
     
     <item>
       <title>In Search for Perfect Daily Journal App</title>
-      <link>http://example.org/in-search-for-perfect-daily-journal-app/</link>
+      <link>https://blog.blackpiratex.com/in-search-for-perfect-daily-journal-app/</link>
       <pubDate>Thu, 28 Apr 2022 00:08:39 +0530</pubDate>
       
-      <guid>http://example.org/in-search-for-perfect-daily-journal-app/</guid>
+      <guid>https://blog.blackpiratex.com/in-search-for-perfect-daily-journal-app/</guid>
       <description>To be considered a viable app for my Daily Journal needs it must have following charateristics.
 Decent UI Either end to end encrypted if the app is cloud based or data stays locally. Cross platform. Including Linux. Easy way to export for personal backups. Free Because of lack of privacy at my home, I had moved away from physical pen and paper diaries and moved completely to digital. It&amp;rsquo;s much easier to hide something online than trying to hide at my home.</description>
     </item>
     
     <item>
       <title>My Experience With Various Password Managers</title>
-      <link>http://example.org/my-experience-with-various-password-managers/</link>
+      <link>https://blog.blackpiratex.com/my-experience-with-various-password-managers/</link>
       <pubDate>Tue, 09 Nov 2021 18:53:53 +0530</pubDate>
       
-      <guid>http://example.org/my-experience-with-various-password-managers/</guid>
+      <guid>https://blog.blackpiratex.com/my-experience-with-various-password-managers/</guid>
       <description>Throughout the years i have used many password managers. One of the biggest reasons I started using a password manager is not because of the security but rather I wanted a quick way to type my passwords. Also its easy for me to loose track of the websites I have signed up for. Now you may ask why I didn&amp;rsquo;t use something like password manager built in most modern web browser?</description>
     </item>
     

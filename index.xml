@@ -2,81 +2,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog By BlackPirateX</title>
-    <link>http://example.org/</link>
+    <link>https://blog.blackpiratex.com/</link>
     <description>Recent content on Blog By BlackPirateX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 14:54:23 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 17:46:44 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Update #1</title>
+      <link>https://blog.blackpiratex.com/website-update-1/</link>
+      <pubDate>Fri, 22 Jul 2022 17:46:44 +0530</pubDate>
+      
+      <guid>https://blog.blackpiratex.com/website-update-1/</guid>
+      <description>If you have visited my this blog before,(and can remember it) you can clearly see the difference. This blog is now simpler. I like it. Hope you like it too. As I am going to get busy with my life, I hope I would stick with this theme for very long.
+How this website is made I use Hugo for creating this website. Hugo is great. I am loving it. Earlier also I was using Hugo, but that time I didn&amp;rsquo;t know much about it, so I used a ready made theme for my website.</description>
+    </item>
+    
     <item>
       <title>Fedora Doesn&#39;t Like Me</title>
-      <link>http://example.org/fedora-doesnt-like-me/</link>
+      <link>https://blog.blackpiratex.com/fedora-doesnt-like-me/</link>
       <pubDate>Mon, 27 Jun 2022 14:54:23 +0530</pubDate>
       
-      <guid>http://example.org/fedora-doesnt-like-me/</guid>
+      <guid>https://blog.blackpiratex.com/fedora-doesnt-like-me/</guid>
       <description>After listening lots of good things about fedora, I wanted to give it a try. I was previously using Archcraft, but recently it started to give me few errors. Dolphin won&amp;rsquo;t start for some reason. Same problem with OBS Studio also. I can live without dolphin, but needed obs studio. I got an workaround and used ffmpeg to record screen, but it wasn&amp;rsquo;t as good as obs studio. So I decided to distro-hop like any rational person would (I hope).</description>
     </item>
     
     <item>
       <title>Simplelogin - Best Way to Manage Your Emails</title>
-      <link>http://example.org/simplelogin-best-way-to-manage-your-emails/</link>
+      <link>https://blog.blackpiratex.com/simplelogin-best-way-to-manage-your-emails/</link>
       <pubDate>Sat, 28 May 2022 19:31:47 +0530</pubDate>
       
-      <guid>http://example.org/simplelogin-best-way-to-manage-your-emails/</guid>
+      <guid>https://blog.blackpiratex.com/simplelogin-best-way-to-manage-your-emails/</guid>
       <description>SimpleLogin is a email aliasing service. Which basically means you can create as many emails as you want* and all those emails would land on single inbox. I&amp;rsquo;ve been using SimpleLogin for over a year now. Here&amp;rsquo;s my evaluation of the service. My Use Case As someone who cares about privacy, and had personal emails leaked in data breach previously, I treat emails just like my passwords. I don&amp;rsquo;t want fifty different companies to know my email address just so they can send me marketing emails.</description>
     </item>
     
     <item>
       <title>Using Degoogled Phone Isn&#39;t as Hard as You Might Think</title>
-      <link>http://example.org/using-degoogled-phone-isnt-as-hard-as-you-might-think/</link>
+      <link>https://blog.blackpiratex.com/using-degoogled-phone-isnt-as-hard-as-you-might-think/</link>
       <pubDate>Tue, 17 May 2022 10:27:24 +0530</pubDate>
       
-      <guid>http://example.org/using-degoogled-phone-isnt-as-hard-as-you-might-think/</guid>
+      <guid>https://blog.blackpiratex.com/using-degoogled-phone-isnt-as-hard-as-you-might-think/</guid>
       <description>What is a degoogled phone? Vanilla Android is FOSS (Free and OpenSource Software), but the android that you get preinstalled in most phones isn&amp;rsquo;t completely FOSS. It has a blackbox, which is called Google Play Services. A lot of android apps and all google apps relies on this. Sure it provides features like instant notification, but privacy is a nightmare. Degoogling a phone means removing this blackbox, by installing a different flavour of Android which doesn&amp;rsquo;t ship with Google Play Services by default.</description>
     </item>
     
     <item>
       <title>Sexual Reproduction in Flowering Plants</title>
-      <link>http://example.org/sexual-reproduction-in-flowering-plants/</link>
+      <link>https://blog.blackpiratex.com/sexual-reproduction-in-flowering-plants/</link>
       <pubDate>Fri, 13 May 2022 16:06:49 +0530</pubDate>
       
-      <guid>http://example.org/sexual-reproduction-in-flowering-plants/</guid>
+      <guid>https://blog.blackpiratex.com/sexual-reproduction-in-flowering-plants/</guid>
       <description>Pre-Fertilisation Events and Structures Several hormonal and structural changes happen which lead to the differentiation and further devlopment of floral primordium before flower in seen on a plant. Inflorecences are formed which bears the floral bud and then the flowers. Structures of a flower Androecium It is the male reproductive organ of the flower. Androecium consists of stamens. The number and length of stamens are variable in different species. Stamen has two parts.</description>
     </item>
     
     <item>
       <title>Human Reproduction</title>
-      <link>http://example.org/human-reproduction/</link>
+      <link>https://blog.blackpiratex.com/human-reproduction/</link>
       <pubDate>Mon, 02 May 2022 20:23:17 +0530</pubDate>
       
-      <guid>http://example.org/human-reproduction/</guid>
+      <guid>https://blog.blackpiratex.com/human-reproduction/</guid>
       <description>Male Reproductive Organ Male reproductive organs consists of testes, accesssory glands, glands and external genetitalia. Male reproductive system is located in pelvic region. There&amp;rsquo;s one pair of testes which is situated outside the human body within a pouch called scrotum. Scrotum has lower temparature than the body (2-2.5 degree celcius less) This lower temparature is necessuary for spermatogenesis. testis is oval in shape 4-5cm in length and 2-3 cm in width.</description>
     </item>
     
     <item>
       <title>In Search for Perfect Daily Journal App</title>
-      <link>http://example.org/in-search-for-perfect-daily-journal-app/</link>
+      <link>https://blog.blackpiratex.com/in-search-for-perfect-daily-journal-app/</link>
       <pubDate>Thu, 28 Apr 2022 00:08:39 +0530</pubDate>
       
-      <guid>http://example.org/in-search-for-perfect-daily-journal-app/</guid>
+      <guid>https://blog.blackpiratex.com/in-search-for-perfect-daily-journal-app/</guid>
       <description>To be considered a viable app for my Daily Journal needs it must have following charateristics.
 Decent UI Either end to end encrypted if the app is cloud based or data stays locally. Cross platform. Including Linux. Easy way to export for personal backups. Free Because of lack of privacy at my home, I had moved away from physical pen and paper diaries and moved completely to digital. It&amp;rsquo;s much easier to hide something online than trying to hide at my home.</description>
     </item>
     
     <item>
       <title>Digital Journaling Is Better Than Physical Journaling</title>
-      <link>http://example.org/digital-journaling-is-better-than-physical-journaling/</link>
+      <link>https://blog.blackpiratex.com/digital-journaling-is-better-than-physical-journaling/</link>
       <pubDate>Sat, 23 Apr 2022 20:18:34 +0530</pubDate>
       
-      <guid>http://example.org/digital-journaling-is-better-than-physical-journaling/</guid>
+      <guid>https://blog.blackpiratex.com/digital-journaling-is-better-than-physical-journaling/</guid>
       <description>Privacy is better on digital Journalism Easy to backup More customisable Less bulky Easier to write Automation Search and Reference Better Privacy A daily journal is probably going to be one of the most private thing in your life. Because I know for a fact that, doesn&amp;rsquo;t matter how close you are to me I&amp;rsquo;m never going to share my journal with anyone but me. If you are able to write digitally right way then it is very much possible to have greater privacy than that you&amp;rsquo;d get in physical journal.</description>
     </item>
     
     <item>
       <title>Why I Love Wm</title>
-      <link>http://example.org/why-i-love-wm/</link>
+      <link>https://blog.blackpiratex.com/why-i-love-wm/</link>
       <pubDate>Wed, 30 Mar 2022 20:13:52 +0530</pubDate>
       
-      <guid>http://example.org/why-i-love-wm/</guid>
+      <guid>https://blog.blackpiratex.com/why-i-love-wm/</guid>
       <description>WM stands for window manager. It is a alternative to using full blown desktop environment. More info on ArchWiki
 I have recently started using WM, first i3 now on openbox. And absolutely love it.
 If you are someone who is used to use normal desktop environment like gnome, kde, xfce or any other DE (Desktop Environment), I&amp;rsquo;d suggest to try out WM.You can start with anyone of those window manager you&amp;rsquo;re comfortable with.</description>
@@ -84,19 +94,19 @@ If you are someone who is used to use normal desktop environment like gnome, kde
     
     <item>
       <title>My Experience With Various Password Managers</title>
-      <link>http://example.org/my-experience-with-various-password-managers/</link>
+      <link>https://blog.blackpiratex.com/my-experience-with-various-password-managers/</link>
       <pubDate>Tue, 09 Nov 2021 18:53:53 +0530</pubDate>
       
-      <guid>http://example.org/my-experience-with-various-password-managers/</guid>
+      <guid>https://blog.blackpiratex.com/my-experience-with-various-password-managers/</guid>
       <description>Throughout the years i have used many password managers. One of the biggest reasons I started using a password manager is not because of the security but rather I wanted a quick way to type my passwords. Also its easy for me to loose track of the websites I have signed up for. Now you may ask why I didn&amp;rsquo;t use something like password manager built in most modern web browser?</description>
     </item>
     
     <item>
       <title>Nextdns Review</title>
-      <link>http://example.org/nextdns-review/</link>
+      <link>https://blog.blackpiratex.com/nextdns-review/</link>
       <pubDate>Fri, 21 May 2021 14:35:54 +0530</pubDate>
       
-      <guid>http://example.org/nextdns-review/</guid>
+      <guid>https://blog.blackpiratex.com/nextdns-review/</guid>
       <description>What is DNS? The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.
 What is NextDNS? NextDNS is a dns service which lets you block sites at dns level. That means it can block ads and trackers. Which is the main selling point of this service.</description>
     </item>
