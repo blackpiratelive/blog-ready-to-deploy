@@ -1,26 +1,31 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>linux - Tag - Blog By BlackPirateX</title>
-        <link>https://blog.blackpiratex.com/tags/linux/</link>
-        <description>linux - Tag - Blog By BlackPirateX</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hi@sudipx.in (BlackPirateX)</managingEditor>
-            <webMaster>hi@sudipx.in (BlackPirateX)</webMaster><lastBuildDate>Mon, 27 Jun 2022 14:54:23 &#43;0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/tags/linux/" rel="self" type="application/rss+xml" /><item>
-    <title>Fedora Doesn&#39;t Like Me</title>
-    <link>https://blog.blackpiratex.com/posts/fedora-doesnt-like-me/</link>
-    <pubDate>Mon, 27 Jun 2022 14:54:23 &#43;0530</pubDate>
-    <author>BlackPirateX</author>
-    <guid>https://blog.blackpiratex.com/posts/fedora-doesnt-like-me/</guid>
-    <description><![CDATA[After listening lots of good things about fedora, I wanted to give it a try. I was previously using Archcraft, but recently it started to give me few errors. Dolphin won&rsquo;t start for some reason. Same problem with OBS Studio also. I can live without dolphin, but needed obs studio. I got an workaround and used ffmpeg to record screen, but it wasn&rsquo;t as good as obs studio. So I decided to distro-hop like any rational person would (I hope).]]></description>
-</item>
-<item>
-    <title>Why I Love Wm</title>
-    <link>https://blog.blackpiratex.com/posts/why-i-love-wm/</link>
-    <pubDate>Wed, 30 Mar 2022 20:13:52 &#43;0530</pubDate>
-    <author>BlackPirateX</author>
-    <guid>https://blog.blackpiratex.com/posts/why-i-love-wm/</guid>
-    <description><![CDATA[WM stands for window manager. It is a alternative to using full blown desktop environment. More info on ArchWiki
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Blog By BlackPirateX</title>
+    <link>http://example.org/tags/linux/</link>
+    <description>Recent content in linux on Blog By BlackPirateX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 14:54:23 +0530</lastBuildDate><atom:link href="http://example.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fedora Doesn&#39;t Like Me</title>
+      <link>http://example.org/fedora-doesnt-like-me/</link>
+      <pubDate>Mon, 27 Jun 2022 14:54:23 +0530</pubDate>
+      
+      <guid>http://example.org/fedora-doesnt-like-me/</guid>
+      <description>After listening lots of good things about fedora, I wanted to give it a try. I was previously using Archcraft, but recently it started to give me few errors. Dolphin won&amp;rsquo;t start for some reason. Same problem with OBS Studio also. I can live without dolphin, but needed obs studio. I got an workaround and used ffmpeg to record screen, but it wasn&amp;rsquo;t as good as obs studio. So I decided to distro-hop like any rational person would (I hope).</description>
+    </item>
+    
+    <item>
+      <title>Why I Love Wm</title>
+      <link>http://example.org/why-i-love-wm/</link>
+      <pubDate>Wed, 30 Mar 2022 20:13:52 +0530</pubDate>
+      
+      <guid>http://example.org/why-i-love-wm/</guid>
+      <description>WM stands for window manager. It is a alternative to using full blown desktop environment. More info on ArchWiki
 I have recently started using WM, first i3 now on openbox. And absolutely love it.
-If you are someone who is used to use normal desktop environment like gnome, kde, xfce or any other DE (Desktop Environment), I&rsquo;d suggest to try out WM.You can start with anyone of those window manager you&rsquo;re comfortable with.]]></description>
-</item>
-</channel>
+If you are someone who is used to use normal desktop environment like gnome, kde, xfce or any other DE (Desktop Environment), I&amp;rsquo;d suggest to try out WM.You can start with anyone of those window manager you&amp;rsquo;re comfortable with.</description>
+    </item>
+    
+  </channel>
 </rss>
