@@ -3,13 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.blackpiratex.com/</loc>
-    <lastmod>2022-07-22T17:46:44+05:30</lastmod>
+    <lastmod>2022-07-24T17:43:10+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.blackpiratex.com/tags/guide/</loc>
+    <lastmod>2022-07-24T17:43:10+05:30</lastmod>
   </url><url>
     <loc>https://blog.blackpiratex.com/tags/meta/</loc>
-    <lastmod>2022-07-22T17:46:44+05:30</lastmod>
+    <lastmod>2022-07-24T17:43:10+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.blackpiratex.com/setting-up-my-website-on-hugo/</loc>
+    <lastmod>2022-07-24T17:43:10+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.blackpiratex.com/tags/software/</loc>
+    <lastmod>2022-07-24T17:43:10+05:30</lastmod>
   </url><url>
     <loc>https://blog.blackpiratex.com/tags/</loc>
-    <lastmod>2022-07-22T17:46:44+05:30</lastmod>
+    <lastmod>2022-07-24T17:43:10+05:30</lastmod>
   </url><url>
     <loc>https://blog.blackpiratex.com/website-update-1/</loc>
     <lastmod>2022-07-22T17:46:44+05:30</lastmod>
@@ -21,9 +30,6 @@
     <lastmod>2022-06-27T14:54:23+05:30</lastmod>
   </url><url>
     <loc>https://blog.blackpiratex.com/tags/rant/</loc>
-    <lastmod>2022-06-27T14:54:23+05:30</lastmod>
-  </url><url>
-    <loc>https://blog.blackpiratex.com/tags/software/</loc>
     <lastmod>2022-06-27T14:54:23+05:30</lastmod>
   </url><url>
     <loc>https://blog.blackpiratex.com/tags/privacy/</loc>

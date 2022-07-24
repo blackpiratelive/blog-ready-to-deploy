@@ -6,7 +6,16 @@
     <description>Recent content in software on Blog By BlackPirateX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 14:54:23 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 17:43:10 +0530</lastBuildDate><atom:link href="https://blog.blackpiratex.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up My Website on Hugo</title>
+      <link>https://blog.blackpiratex.com/setting-up-my-website-on-hugo/</link>
+      <pubDate>Sun, 24 Jul 2022 17:43:10 +0530</pubDate>
+      
+      <guid>https://blog.blackpiratex.com/setting-up-my-website-on-hugo/</guid>
+      <description>Inspiration: As far as I can remember, I came to know about Hugo from some personal blogs, which I have found through Hacker News. Before this I was coding everything manually for each blog post. (you can see examples of those here.) And yes it was tedious. I noticed that I spent most of my time making the html and css, instead of writting the actual content. Also the friction involed in getting my post published made me less likely to post.</description>
+    </item>
+    
     <item>
       <title>Fedora Doesn&#39;t Like Me</title>
       <link>https://blog.blackpiratex.com/fedora-doesnt-like-me/</link>

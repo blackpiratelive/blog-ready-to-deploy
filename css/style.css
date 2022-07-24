@@ -2,6 +2,7 @@
     --accent: rgb(0,122,255);
     --tob-bg: rgb(142,142,147);
     --accent-black-bg: rgb(10,132, 255);
+    --code-background-color: #272822;
 }
 body {
     font-size: 1.2rem;
@@ -131,5 +132,29 @@ img {
     margin: 0.25rem;
 }
 .post-divider {
+    margin: 0;
+}
+.highlight {
+    font-size: 1rem;
+    padding: 1rem;
+    margin: 0;
+    padding: 0;
+}
+code {
+   font-family: monospace;
+    border-radius: 4px;
+    padding: 0.15rem;
+    font-size: 1rem;
+    margin: 0;
+}
+pre {
+    overflow-x: auto;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+    background-color: grey;
+    padding: 1rem;
     margin: 0;
 }
